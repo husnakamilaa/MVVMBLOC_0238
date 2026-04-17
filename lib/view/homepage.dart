@@ -25,6 +25,7 @@ class HomePage extends StatelessWidget {
                 context.read<UserBloc>().add(EmailChanged(value));
               },
             ),
+            SizedBox(height: 20),
 
             
           ],
