@@ -6,7 +6,7 @@ Kelas  : A<br>
 
 <div align="center">
   
-| **Beranda** | 
+| **Dokumentasi App** | 
 |:----------------------:|
 |<img width="300" alt="image" src="https://github.com/user-attachments/assets/67bfdd03-feb4-4b40-85ad-242c5f6a07f8" />|
 </div>
