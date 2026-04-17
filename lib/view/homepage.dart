@@ -27,7 +27,14 @@ class HomePage extends StatelessWidget {
             ),
             SizedBox(height: 20),
 
-            
+            BlocBuilder<UserBloc, UserState>(
+              builder: (context, state) {
+                return Text(
+                  "Halo, ${state.nama}... , is ${state.email} your electronic mail ?",
+                  style: TextStyle(fontSize: 20),
+                );
+              },
+            ),
           ],
         ),
       ),
